@@ -1,4 +1,8 @@
-# Supervised GAN #
+# Supervised GAN in PyTorch #
+
+**SupervisedGAN:** [**Paper**](https://phymhan.github.io/pdf/supervised_gan.pdf)
+
+![](imgs/cover.png)
 
 ## Quick Start ###
 
