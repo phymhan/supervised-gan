@@ -93,3 +93,7 @@ Codes for generating parametric baseline samples can be downloaded from [here](h
 
 ### Global statistics
 Coming soon...
+
+
+## Acknowledgments
+Code borrows heavily from [CycleGAN-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). The images were taken from [VNC dataset](https://github.com/unidesigner/groundtruth-drosophila-vnc).
